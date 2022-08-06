@@ -5,3 +5,6 @@ dwm
 # patch stuff
 *.orig
 *.rej
+
+# use config.def.h
+config.h
