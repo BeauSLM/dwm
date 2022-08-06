@@ -1,2 +1,7 @@
+# compiler artifacts
 *.o
 dwm
+
+# patch stuff
+*.orig
+*.rej
