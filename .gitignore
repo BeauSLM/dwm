@@ -8,3 +8,6 @@ dwm
 
 # use config.def.h
 config.h
+
+# vscode for debugging
+.vscode
